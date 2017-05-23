@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'mozio',
         'USER': 'postgres',
         'PASSWORD': 'root',
-        'HOST': '139.59.37.132',
+        'HOST': 'localhost',
         'PORT': 5432,
     }
 }
